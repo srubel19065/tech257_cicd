@@ -28,7 +28,7 @@
 ### Why use which one?
 Depends on your situation
 
-## Diagram
+## Diagram of CI 
 
 ![Alt text](image.png)
 
