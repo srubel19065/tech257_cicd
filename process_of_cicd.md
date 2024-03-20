@@ -30,6 +30,6 @@ Depends on your situation
 
 ## Diagram of CI 
 
-![Alt text](image.png)
+![Alt text](Images/ci.png)
 
-![Alt text](image-1.png)
+![Alt text](Images/jenkins-nodes.png)
