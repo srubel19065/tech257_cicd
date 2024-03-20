@@ -7,6 +7,6 @@ Webhook is a tool which is used to notify when specific events happen. This can 
 3. Add webhook
 4. `Payload URL` = URL of the jenkins pipeline followed by a name 
    - URL/name
-5. Configure the type of notification - when will it send it
+5. Configure the type of notification - when will it send it?
 6. If it works, it should send a ping and it works
 
