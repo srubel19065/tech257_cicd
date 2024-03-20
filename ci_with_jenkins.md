@@ -1,6 +1,6 @@
 # CI with Jenkins
 
-## Creating  job
+## Creating a job
 1. `New item` - will take you to build the jenkins job
 2. `Name` - appropriately name it
 3. Select `Freestyle Project`
@@ -16,6 +16,16 @@
 10. `Build Environment` - 'Provide Node & npm bin/ folder to PATH' - default settings will suffice
 11. `Build` - how the build will be done and as we used shell, we will specify shell
     ![Alt text](Images/build.png)
+
+## Build a job
+1. `Build Now` - This will run a build
+   ![Alt text](Images/build-now.png)
+2. In the History it will show the builds ran, the most recent one
+   - originally starts white
+   - turn blue if successful
+   - turns red if unsucessful
+  ![Alt text](Images/build-ran.png)
+
 
 
 ## Creating a webhook 
