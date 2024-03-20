@@ -12,7 +12,7 @@ CI is a software development practice which focuses on frequently making changes
 
 ## Where 
 
-
+uhu
 ## When
 1. You want efficient and clean code
    - If the developers have a huge project, they want to be consistently working and having smooth code as an issue where they dont know the problem will lead to wasting time
