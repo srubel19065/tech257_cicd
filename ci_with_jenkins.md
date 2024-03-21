@@ -20,7 +20,7 @@
 ## Build a job
 1. `Build Now` - This will run a build
    ![Alt text](Images/build-now.png)
-2. In the History it will show the builds ran, the most recent one
+2. In the History it will show the builds ran with the most recent one
    - originally starts white
    - turns blue if successful
    - turns red if unsucessful
