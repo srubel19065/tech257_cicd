@@ -44,6 +44,6 @@ Jenkins stores code within the workspaces, using this storage area we can copy t
 2. Add `Post Build Action` -> add your CD Job to it
    - -> This will mean whenever a change is made, the CD job will see a change has been made to the app code and will trigger the merge to the master branch
 3. Make a change to the app e.g: change index.ejs line to include year in the title
-   ![Alt text](Images/2024-app-change.png)
+![Alt text](Images/2024-app-change.png)
 4. Go back to your ec2 terminal, and run npm start which should reload the changes
-   ![Alt text](Images/sparta-new-2024.png)
+![Alt text](Images/sparta-new-2024.png)
