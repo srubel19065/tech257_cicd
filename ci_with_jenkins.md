@@ -57,3 +57,5 @@ It is best practice to always work and make code changes in a separate branch fr
      - Use these configurations:
   ![Alt text](Images/git-publisher.png)
 6. Now that this job is created, we need to add it as a post build action to the initial job created to push changes
+
+
