@@ -26,10 +26,8 @@
 ## Continuos Deployment
 - Full automation process like delivery except Jenkins deploys for you
 ### Why use which one?
-Depends on your situation
+Depends on your situation, if you need to deploy on a certain date, you could follow Continous Delivery and manually deploy but if the code can be pushed straight away and each time, then let jenkins auto deploy - Continuous Deployment
 
 ## Diagram of CI 
 
-![Alt text](Images/ci.png)
-
-![Alt text](Images/jenkins-nodes.png)
+![Alt text](Images/diagram-ci.png)
