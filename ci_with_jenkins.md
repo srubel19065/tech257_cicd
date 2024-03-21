@@ -22,7 +22,7 @@
    ![Alt text](Images/build-now.png)
 2. In the History it will show the builds ran, the most recent one
    - originally starts white
-   - turn blue if successful
+   - turns blue if successful
    - turns red if unsucessful
   ![Alt text](Images/build-ran.png)
 
