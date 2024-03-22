@@ -1,4 +1,4 @@
-# CI/CD Steps to follow to Successfully Deploy
+# CI/CDE Steps to follow to Successfully Deploy
 ![Alt text](Images/cicd-diagram.png)
 ## 1. Job 1: CI & Testing on Dev branch
 1. Create dev branch on gitbash/vsc
